@@ -14,5 +14,5 @@
     - so, $dof = 6(4 - 4 - 1) + 7 = 1$  
    
 3. A mechanism that is incapable of motion has zero degrees of freedom. In some circumstances, Grubler's formula indicates that the number of degrees of freedom of a mechanism is negative. How should that result be interpreted?
-- [x] The constraints implied by the joints must not be independent
-- [ ] The number of joints, the degrees of freedom of those joints, or the number of rigid bodies must have been counted incorrectly
+    - [x] **The constraints implied by the joints must not be independent**
+    - [ ] The number of joints, the degrees of freedom of those joints, or the number of rigid bodies must have been counted incorrectly
